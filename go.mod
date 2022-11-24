@@ -1,4 +1,4 @@
-module go.uber.org/zap
+module github.com/nape-max/zap-with-another-logger
 
 go 1.19
 
